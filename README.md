@@ -88,6 +88,10 @@ La frecuencia con la que se han buscado las tutorías ha sido por lo general sem
 
 [Entrevistas](https://docs.google.com/document/d/1XPUS9EaGQ08Rnm_ULuJXqA0-Qn_xf5akVpcNTNQQlMc/edit?usp=sharin)
 
+## Deploy
+
+[Logremos el 7](https://socialnetworklaboratoria.firebaseapp.com/)
+
 ## Guía de instalación
 
 ### Git
